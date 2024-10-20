@@ -6,6 +6,7 @@ This repo includes:
 3. Something I made for fun.
 ## LICENSE
 All of my project is licensed under Cerative Commons Zero (CC0) license.
+This applies to synthesizer V project, but not apply to my own song is described as other forms like: lyrics, songs, sound effect, short videos, videos.
 ### For copyright holders:
 My cover file does not infrige any copyrighted material of you, or your person that you are behalf, **including music, sound effect, samples, lyrics, source code**.
 
