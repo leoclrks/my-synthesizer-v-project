@@ -1,4 +1,4 @@
-## My Synthesizer V project.
+## My Synthesizer V project
 This repository contain all my work, covers, and stuff about Synthesizer V.
 This repo includes:
 1. Cover of popular song.
