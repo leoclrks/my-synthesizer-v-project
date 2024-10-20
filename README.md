@@ -7,9 +7,11 @@ This repo includes:
 ## LICENSE
 All of my project is licensed under Cerative Commons Zero (CC0) license.
 ### For copyright holders:
-My cover file does not infrige any copyrighted material of your or your behalf, **including music, sound effect, samples, lyrics, source code**.
+My cover file does not infrige any copyrighted material of you, or your person that you are behalf, **including music, sound effect, samples, lyrics, source code**.
+
 This is just a file contain code with mainly numbers, therefore it **can't play it itself** without a software.
-**Numbers are not protected by copyright and DMCA**, so you can not sue or take action with my repo.
+
+**Numbers are not protected by copyright and DMCA**.
 ## MY GOAL
 1. To create royalty-free music.
 2. To create a cover with my favorite singer.
